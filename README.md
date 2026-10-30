@@ -1,8 +1,3 @@
-Here is a complete, professional `README.md` template tailored for your project, featuring the exact 5 sections required by your milestone guidelines.
-
-You can copy and paste this directly into the `README.md` file at the root of your repository:
-
-
 # King County House Price Prediction
 
 ## Problem Statement
